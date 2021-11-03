@@ -1,1 +1,1 @@
-Création de personnage avec React et Firebase.
+Création de personnage (React, Firebase et Axios).
